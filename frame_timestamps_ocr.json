@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0, 
+    "end": 28.84, 
+    "ocr_result": [], 
+    "shot_id": 0
+  }, 
+  {
+    "start": 28.84, 
+    "end": 48.04, 
+    "ocr_result": [], 
+    "shot_id": 1
+  }, 
+  {
+    "start": 48.04, 
+    "end": 67.24, 
+    "ocr_result": [], 
+    "shot_id": 2
+  }, 
+  {
+    "start": 67.24, 
+    "end": 86.44, 
+    "ocr_result": [], 
+    "shot_id": 3
+  }, 
+  {
+    "start": 86.44, 
+    "end": 105.64, 
+    "ocr_result": [], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 105.64, 
+    "end": 124.84, 
+    "ocr_result": [], 
+    "shot_id": 5
+  }, 
+  {
+    "start": 124.84, 
+    "end": 144.04, 
+    "ocr_result": [], 
+    "shot_id": 6
+  }, 
+  {
+    "start": 144.04, 
+    "end": 163.28, 
+    "ocr_result": [], 
+    "shot_id": 7
+  }, 
+  {
+    "start": 163.28, 
+    "end": 182.48, 
+    "ocr_result": [], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 182.48, 
+    "end": 201.68, 
+    "ocr_result": [], 
+    "shot_id": 9
+  }, 
+  {
+    "start": 201.68, 
+    "end": 220.88, 
+    "ocr_result": [], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 220.88, 
+    "end": 316.88, 
+    "ocr_result": [], 
+    "shot_id": 11
+  }, 
+  {
+    "start": 316.88, 
+    "end": 336.08, 
+    "ocr_result": [], 
+    "shot_id": 12
+  }, 
+  {
+    "start": 336.08, 
+    "end": 374.48, 
+    "ocr_result": [], 
+    "shot_id": 13
+  }, 
+  {
+    "start": 374.48, 
+    "end": 393.68, 
+    "ocr_result": [], 
+    "shot_id": 14
+  }, 
+  {
+    "start": 393.68, 
+    "end": 412.88, 
+    "ocr_result": [], 
+    "shot_id": 15
+  }, 
+  {
+    "start": 412.88, 
+    "end": 451.2800000000001, 
+    "ocr_result": [], 
+    "shot_id": 16
+  }, 
+  {
+    "start": 451.2800000000001, 
+    "end": 470.48, 
+    "ocr_result": [], 
+    "shot_id": 17
+  }, 
+  {
+    "start": 470.48, 
+    "end": 528.12, 
+    "ocr_result": [], 
+    "shot_id": 18
+  }, 
+  {
+    "start": 528.12, 
+    "end": 0.0, 
+    "ocr_result": [], 
+    "shot_id": 19
+  }
+]

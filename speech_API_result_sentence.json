@@ -1,0 +1,8815 @@
+[
+  {
+    "id": 0,
+    "start": 0,
+    "end": 6.2,
+    "text": "So I actually like to think of it in the inverse as a more.",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.7,
+        "word": "So"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "I"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.2,
+        "word": "actually"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.8,
+        "word": "like"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "to"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 4.0,
+        "word": "think"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "of"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.4,
+        "word": "it"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "in"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.8,
+        "word": "the"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.6,
+        "word": "inverse"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.9,
+        "word": "as"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "a"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "more."
+      }
+    ],
+    "length": 6.2
+  },
+  {
+    "id": 1,
+    "start": 6.2,
+    "end": 9.2,
+    "text": "Correct way Faye Disney Fool's name for chance.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "Correct"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.8,
+        "word": "way"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.2,
+        "word": "Faye"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "Disney"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "Fool's"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "name"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.5,
+        "word": "for"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.0,
+        "word": "chance."
+      }
+    ],
+    "length": 2.999999999999999
+  },
+  {
+    "id": 2,
+    "start": 9.2,
+    "end": 41.7,
+    "text": " and has a scientists we tend to focus on facts and while when they want to debate and argue about the existence or not of Fate chance is something that is very concrete and real it's something we can compute and we do so within the science of probability and as you've been learning the different rules of probability, we now have to apply these rules to some different kinds of situations and",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 2.4,
+        "word": "and"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.6,
+        "word": "has"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.6,
+        "word": "a"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.5,
+        "word": "scientists"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.0,
+        "word": "we"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.2,
+        "word": "tend"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "to"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.5,
+        "word": "focus"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.0,
+        "word": "on"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.5,
+        "word": "facts"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.9,
+        "word": "and"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 8.4,
+        "word": "while"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.5,
+        "word": "when"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.7,
+        "word": "they"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.9,
+        "word": "want"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.0,
+        "word": "to"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.7,
+        "word": "debate"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.4,
+        "word": "and"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.9,
+        "word": "argue"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.0,
+        "word": "about"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.3,
+        "word": "the"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.6,
+        "word": "existence"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 12.0,
+        "word": "or"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.2,
+        "word": "not"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.3,
+        "word": "of"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.7,
+        "word": "Fate"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.9,
+        "word": "chance"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.4,
+        "word": "is"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.7,
+        "word": "something"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 14.8,
+        "word": "that"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.0,
+        "word": "is"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.2,
+        "word": "very"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 15.6,
+        "word": "concrete"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 16.0,
+        "word": "and"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.4,
+        "word": "real"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.8,
+        "word": "it's"
+      },
+      {
+        "startTime": 16.8,
+        "endTime": 17.0,
+        "word": "something"
+      },
+      {
+        "startTime": 17.0,
+        "endTime": 17.2,
+        "word": "we"
+      },
+      {
+        "startTime": 17.2,
+        "endTime": 17.3,
+        "word": "can"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.7,
+        "word": "compute"
+      },
+      {
+        "startTime": 17.7,
+        "endTime": 18.6,
+        "word": "and"
+      },
+      {
+        "startTime": 18.6,
+        "endTime": 18.7,
+        "word": "we"
+      },
+      {
+        "startTime": 18.7,
+        "endTime": 18.9,
+        "word": "do"
+      },
+      {
+        "startTime": 18.9,
+        "endTime": 19.1,
+        "word": "so"
+      },
+      {
+        "startTime": 19.1,
+        "endTime": 19.3,
+        "word": "within"
+      },
+      {
+        "startTime": 19.3,
+        "endTime": 19.4,
+        "word": "the"
+      },
+      {
+        "startTime": 19.4,
+        "endTime": 19.8,
+        "word": "science"
+      },
+      {
+        "startTime": 19.8,
+        "endTime": 19.9,
+        "word": "of"
+      },
+      {
+        "startTime": 19.9,
+        "endTime": 20.6,
+        "word": "probability"
+      },
+      {
+        "startTime": 20.6,
+        "endTime": 21.8,
+        "word": "and"
+      },
+      {
+        "startTime": 21.8,
+        "endTime": 22.1,
+        "word": "as"
+      },
+      {
+        "startTime": 22.1,
+        "endTime": 22.2,
+        "word": "you've"
+      },
+      {
+        "startTime": 22.2,
+        "endTime": 22.2,
+        "word": "been"
+      },
+      {
+        "startTime": 22.2,
+        "endTime": 22.6,
+        "word": "learning"
+      },
+      {
+        "startTime": 22.6,
+        "endTime": 23.1,
+        "word": "the"
+      },
+      {
+        "startTime": 23.1,
+        "endTime": 23.2,
+        "word": "different"
+      },
+      {
+        "startTime": 23.2,
+        "endTime": 23.7,
+        "word": "rules"
+      },
+      {
+        "startTime": 23.7,
+        "endTime": 23.7,
+        "word": "of"
+      },
+      {
+        "startTime": 23.7,
+        "endTime": 23.9,
+        "word": "probability,"
+      },
+      {
+        "startTime": 23.9,
+        "endTime": 24.7,
+        "word": "we"
+      },
+      {
+        "startTime": 24.7,
+        "endTime": 24.9,
+        "word": "now"
+      },
+      {
+        "startTime": 24.9,
+        "endTime": 25.1,
+        "word": "have"
+      },
+      {
+        "startTime": 25.1,
+        "endTime": 25.1,
+        "word": "to"
+      },
+      {
+        "startTime": 25.1,
+        "endTime": 25.6,
+        "word": "apply"
+      },
+      {
+        "startTime": 25.6,
+        "endTime": 25.8,
+        "word": "these"
+      },
+      {
+        "startTime": 25.8,
+        "endTime": 26.5,
+        "word": "rules"
+      },
+      {
+        "startTime": 26.5,
+        "endTime": 27.3,
+        "word": "to"
+      },
+      {
+        "startTime": 27.3,
+        "endTime": 27.8,
+        "word": "some"
+      },
+      {
+        "startTime": 27.8,
+        "endTime": 28.3,
+        "word": "different"
+      },
+      {
+        "startTime": 28.3,
+        "endTime": 28.9,
+        "word": "kinds"
+      },
+      {
+        "startTime": 28.9,
+        "endTime": 29.0,
+        "word": "of"
+      },
+      {
+        "startTime": 29.0,
+        "endTime": 30.3,
+        "word": "situations"
+      },
+      {
+        "startTime": 30.3,
+        "endTime": 32.5,
+        "word": "and"
+      }
+    ],
+    "length": 32.5
+  },
+  {
+    "id": 3,
+    "start": 41.7,
+    "end": 58.9,
+    "text": " One of the things that we want to focus on is looking at some new examples of how to use these basic ideas of probability that you've been introduced to in ways in which we can calculate probabilities are odds for things to occur.",
+    "words": [
+      {
+        "startTime": 1.7,
+        "endTime": 2.9,
+        "word": "One"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "of"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "the"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.2,
+        "word": "things"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "that"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "we"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "want"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "to"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.1,
+        "word": "focus"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.4,
+        "word": "on"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.2,
+        "word": "is"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 6.5,
+        "word": "looking"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.7,
+        "word": "at"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.2,
+        "word": "some"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.7,
+        "word": "new"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.4,
+        "word": "examples"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.7,
+        "word": "of"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.9,
+        "word": "how"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.3,
+        "word": "to"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.5,
+        "word": "use"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.9,
+        "word": "these"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.3,
+        "word": "basic"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.7,
+        "word": "ideas"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.7,
+        "word": "of"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 11.3,
+        "word": "probability"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.5,
+        "word": "that"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.6,
+        "word": "you've"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.7,
+        "word": "been"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.2,
+        "word": "introduced"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.3,
+        "word": "to"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 13.2,
+        "word": "in"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.5,
+        "word": "ways"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.7,
+        "word": "in"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 13.7,
+        "word": "which"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 13.9,
+        "word": "we"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.0,
+        "word": "can"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.4,
+        "word": "calculate"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 15.9,
+        "word": "probabilities"
+      },
+      {
+        "startTime": 15.9,
+        "endTime": 15.9,
+        "word": "are"
+      },
+      {
+        "startTime": 15.9,
+        "endTime": 16.4,
+        "word": "odds"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.5,
+        "word": "for"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.8,
+        "word": "things"
+      },
+      {
+        "startTime": 16.8,
+        "endTime": 16.9,
+        "word": "to"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.2,
+        "word": "occur."
+      }
+    ],
+    "length": 17.199999999999996
+  },
+  {
+    "id": 4,
+    "start": 58.9,
+    "end": 71.5,
+    "text": "And one of the interesting places to apply this to is in gambling we can describe the chance for success in a dice game that's called craps on the left hand side.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.3,
+        "word": "And"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "one"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.7,
+        "word": "of"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "the"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "interesting"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.6,
+        "word": "places"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "to"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "apply"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.3,
+        "word": "this"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "to"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.1,
+        "word": "is"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.5,
+        "word": "in"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.2,
+        "word": "gambling"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.8,
+        "word": "we"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "can"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.4,
+        "word": "describe"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.6,
+        "word": "the"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.1,
+        "word": "chance"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.3,
+        "word": "for"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 8.0,
+        "word": "success"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.8,
+        "word": "in"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.4,
+        "word": "a"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 10.1,
+        "word": "dice"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.2,
+        "word": "game"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.6,
+        "word": "that's"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.8,
+        "word": "called"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.3,
+        "word": "craps"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.9,
+        "word": "on"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.0,
+        "word": "the"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.3,
+        "word": "left"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.5,
+        "word": "hand"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 12.6,
+        "word": "side."
+      }
+    ],
+    "length": 12.600000000000001
+  },
+  {
+    "id": 5,
+    "start": 71.5,
+    "end": 74.7,
+    "text": "You can see a picture of what a professional craps table looks like.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "You"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.3,
+        "word": "can"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.4,
+        "word": "see"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "a"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "picture"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "of"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "what"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "a"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.9,
+        "word": "professional"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.3,
+        "word": "craps"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "table"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "looks"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "like."
+      }
+    ],
+    "length": 3.200000000000003
+  },
+  {
+    "id": 6,
+    "start": 74.7,
+    "end": 91.2,
+    "text": " We're not going to analyze everything in craps is actually a pretty complicated game, but we're going to focus on determining the probability for some of the roles and in the course of doing that will explain what the relevant rules are as we go along for anyone who's not familiar with the game.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 1.9,
+        "word": "We're"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "not"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.0,
+        "word": "going"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "to"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.7,
+        "word": "analyze"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.1,
+        "word": "everything"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.6,
+        "word": "in"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "craps"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "is"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.5,
+        "word": "actually"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.5,
+        "word": "a"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "pretty"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.2,
+        "word": "complicated"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.9,
+        "word": "game,"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.1,
+        "word": "but"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.2,
+        "word": "we're"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.3,
+        "word": "going"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.4,
+        "word": "to"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.6,
+        "word": "focus"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.9,
+        "word": "on"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.8,
+        "word": "determining"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.8,
+        "word": "the"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.1,
+        "word": "probability"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.6,
+        "word": "for"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.0,
+        "word": "some"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.1,
+        "word": "of"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.2,
+        "word": "the"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.6,
+        "word": "roles"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.6,
+        "word": "and"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.7,
+        "word": "in"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.8,
+        "word": "the"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 10.9,
+        "word": "course"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.1,
+        "word": "of"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.4,
+        "word": "doing"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.6,
+        "word": "that"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.8,
+        "word": "will"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.4,
+        "word": "explain"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.9,
+        "word": "what"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.0,
+        "word": "the"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.5,
+        "word": "relevant"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.8,
+        "word": "rules"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 13.9,
+        "word": "are"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.1,
+        "word": "as"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.2,
+        "word": "we"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.3,
+        "word": "go"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.4,
+        "word": "along"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.8,
+        "word": "for"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.1,
+        "word": "anyone"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.3,
+        "word": "who's"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.4,
+        "word": "not"
+      },
+      {
+        "startTime": 15.4,
+        "endTime": 15.9,
+        "word": "familiar"
+      },
+      {
+        "startTime": 15.9,
+        "endTime": 16.0,
+        "word": "with"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.2,
+        "word": "the"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.5,
+        "word": "game."
+      }
+    ],
+    "length": 16.5
+  },
+  {
+    "id": 7,
+    "start": 91.2,
+    "end": 94.1,
+    "text": "Okay, so we want to calculate some probabilities.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "Okay,"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.0,
+        "word": "so"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.3,
+        "word": "we"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "want"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.5,
+        "word": "to"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "calculate"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.3,
+        "word": "some"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.9,
+        "word": "probabilities."
+      }
+    ],
+    "length": 2.8999999999999915
+  },
+  {
+    "id": 8,
+    "start": 94.1,
+    "end": 99.7,
+    "text": " And we want to first start by understand exactly how the game works.",
+    "words": [
+      {
+        "startTime": 1.5,
+        "endTime": 2.5,
+        "word": "And"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "we"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "want"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "to"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.7,
+        "word": "first"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "start"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "by"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.5,
+        "word": "understand"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.9,
+        "word": "exactly"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "how"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.2,
+        "word": "the"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "game"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "works."
+      }
+    ],
+    "length": 5.6000000000000085
+  },
+  {
+    "id": 9,
+    "start": 99.7,
+    "end": 119.4,
+    "text": "So one person is going to roll two dice and the others going to bet on what the outcome of those two dice rolls are going to be so suppose you place a bet that cost you one chip and a house pays you back chips when you make the correct prediction and also returns to you the one ship that you bet.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "So"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.1,
+        "word": "one"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "person"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.8,
+        "word": "is"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "going"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.2,
+        "word": "to"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "roll"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.9,
+        "word": "two"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.3,
+        "word": "dice"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 4.4,
+        "word": "and"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "the"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.9,
+        "word": "others"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "going"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.1,
+        "word": "to"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "bet"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.5,
+        "word": "on"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.7,
+        "word": "what"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.9,
+        "word": "the"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "outcome"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.3,
+        "word": "of"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.6,
+        "word": "those"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "two"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.1,
+        "word": "dice"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.7,
+        "word": "rolls"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.9,
+        "word": "are"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "going"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.1,
+        "word": "to"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.3,
+        "word": "be"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.8,
+        "word": "so"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.5,
+        "word": "suppose"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.3,
+        "word": "you"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.6,
+        "word": "place"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.7,
+        "word": "a"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 11.0,
+        "word": "bet"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.2,
+        "word": "that"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.5,
+        "word": "cost"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.8,
+        "word": "you"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.2,
+        "word": "one"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.5,
+        "word": "chip"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 13.4,
+        "word": "and"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 13.4,
+        "word": "a"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 13.7,
+        "word": "house"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.1,
+        "word": "pays"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.3,
+        "word": "you"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.5,
+        "word": "back"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 15.0,
+        "word": "chips"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.3,
+        "word": "when"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.3,
+        "word": "you"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.5,
+        "word": "make"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 15.7,
+        "word": "the"
+      },
+      {
+        "startTime": 15.7,
+        "endTime": 16.1,
+        "word": "correct"
+      },
+      {
+        "startTime": 16.1,
+        "endTime": 16.7,
+        "word": "prediction"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 17.4,
+        "word": "and"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 17.6,
+        "word": "also"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 18.2,
+        "word": "returns"
+      },
+      {
+        "startTime": 18.2,
+        "endTime": 18.3,
+        "word": "to"
+      },
+      {
+        "startTime": 18.3,
+        "endTime": 18.4,
+        "word": "you"
+      },
+      {
+        "startTime": 18.4,
+        "endTime": 18.6,
+        "word": "the"
+      },
+      {
+        "startTime": 18.6,
+        "endTime": 18.7,
+        "word": "one"
+      },
+      {
+        "startTime": 18.7,
+        "endTime": 19.0,
+        "word": "ship"
+      },
+      {
+        "startTime": 19.0,
+        "endTime": 19.2,
+        "word": "that"
+      },
+      {
+        "startTime": 19.2,
+        "endTime": 19.4,
+        "word": "you"
+      },
+      {
+        "startTime": 19.4,
+        "endTime": 19.7,
+        "word": "bet."
+      }
+    ],
+    "length": 19.700000000000003
+  },
+  {
+    "id": 10,
+    "start": 119.4,
+    "end": 126.5,
+    "text": " Like all gambling the odds are stacked for the house and against you and let's take a look at how they do that.",
+    "words": [
+      {
+        "startTime": 0.8,
+        "endTime": 1.3,
+        "word": "Like"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "all"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.1,
+        "word": "gambling"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "the"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "odds"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "are"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.3,
+        "word": "stacked"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.7,
+        "word": "for"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "the"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "house"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.6,
+        "word": "and"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.0,
+        "word": "against"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.3,
+        "word": "you"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "and"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "let's"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "take"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.1,
+        "word": "a"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.3,
+        "word": "look"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.3,
+        "word": "at"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "how"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.7,
+        "word": "they"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.9,
+        "word": "do"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.1,
+        "word": "that."
+      }
+    ],
+    "length": 7.099999999999994
+  },
+  {
+    "id": 11,
+    "start": 126.5,
+    "end": 132.3,
+    "text": " So one that you can make is that the next role will be a 7.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "So"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "one"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "that"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "you"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "can"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "make"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "is"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "that"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "the"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "next"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.3,
+        "word": "role"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "will"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.6,
+        "word": "be"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.2,
+        "word": "a"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.8,
+        "word": "7."
+      }
+    ],
+    "length": 5.800000000000011
+  },
+  {
+    "id": 12,
+    "start": 132.3,
+    "end": 138.1,
+    "text": " What is the probability that this is going to occur?",
+    "words": [
+      {
+        "startTime": 2.1,
+        "endTime": 3.2,
+        "word": "What"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.2,
+        "word": "is"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.3,
+        "word": "the"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.6,
+        "word": "probability"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.1,
+        "word": "that"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.5,
+        "word": "this"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.0,
+        "word": "is"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.1,
+        "word": "going"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "to"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "occur?"
+      }
+    ],
+    "length": 5.799999999999983
+  },
+  {
+    "id": 13,
+    "start": 138.1,
+    "end": 145.8,
+    "text": " I would like you to pause the video and see if you can figure out what is the probability to roll a 7.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "I"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "would"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "like"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "you"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.0,
+        "word": "to"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.6,
+        "word": "pause"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "the"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "video"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.6,
+        "word": "and"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "see"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "if"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "you"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "can"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "figure"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.0,
+        "word": "out"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.4,
+        "word": "what"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "is"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "the"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.2,
+        "word": "probability"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.5,
+        "word": "to"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.0,
+        "word": "roll"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.1,
+        "word": "a"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.7,
+        "word": "7."
+      }
+    ],
+    "length": 7.700000000000017
+  },
+  {
+    "id": 14,
+    "start": 145.8,
+    "end": 149.4,
+    "text": " With two dice in one roll.",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.7,
+        "word": "With"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "two"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "dice"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.9,
+        "word": "in"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.3,
+        "word": "one"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.6,
+        "word": "roll."
+      }
+    ],
+    "length": 3.5999999999999943
+  },
+  {
+    "id": 15,
+    "start": 149.4,
+    "end": 157.0,
+    "text": " Okay.",
+    "words": [
+      {
+        "startTime": 6.7,
+        "endTime": 7.6,
+        "word": "Okay."
+      }
+    ],
+    "length": 7.599999999999994
+  },
+  {
+    "id": 16,
+    "start": 157.0,
+    "end": 158.2,
+    "text": "Hope you've been able to make a prediction.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "Hope"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.4,
+        "word": "you've"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "been"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.6,
+        "word": "able"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "to"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "make"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "a"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "prediction."
+      }
+    ],
+    "length": 1.1999999999999886
+  },
+  {
+    "id": 17,
+    "start": 158.2,
+    "end": 161.3,
+    "text": "Here's the way that I would analyze this problem.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "Here's"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "the"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "way"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.6,
+        "word": "that"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.7,
+        "word": "I"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "would"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.3,
+        "word": "analyze"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "this"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.1,
+        "word": "problem."
+      }
+    ],
+    "length": 3.1000000000000227
+  },
+  {
+    "id": 18,
+    "start": 161.3,
+    "end": 166.1,
+    "text": "I'm going to look at all of the different successful possibilities.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "I'm"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.7,
+        "word": "going"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "to"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "look"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "at"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "all"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "of"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "the"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.4,
+        "word": "different"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.3,
+        "word": "successful"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 4.8,
+        "word": "possibilities."
+      }
+    ],
+    "length": 4.799999999999983
+  },
+  {
+    "id": 19,
+    "start": 166.1,
+    "end": 169.1,
+    "text": "I could roll a 1 on the first die in a 6 on the second thigh.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "I"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.4,
+        "word": "could"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.6,
+        "word": "roll"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "a"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "1"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "on"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "the"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "first"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "die"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "in"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "a"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "6"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "on"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "the"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "second"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "thigh."
+      }
+    ],
+    "length": 3.0
+  },
+  {
+    "id": 20,
+    "start": 169.1,
+    "end": 174.1,
+    "text": "That total is 7 I can roll a 2 on the first and a v on the 2nd.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "That"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.1,
+        "word": "total"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "is"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "7"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "I"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "can"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.5,
+        "word": "roll"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "a"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.1,
+        "word": "2"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.2,
+        "word": "on"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.3,
+        "word": "the"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "first"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.9,
+        "word": "and"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 3.9,
+        "word": "a"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "v"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "on"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "the"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.0,
+        "word": "2nd."
+      }
+    ],
+    "length": 5.0
+  },
+  {
+    "id": 21,
+    "start": 174.1,
+    "end": 191.5,
+    "text": "I can roll at 3 on the 1st at 4 on the 2nd a 4 on the 1st at 3 on the 2nd a 5 on the 1st at 2 on the 2nd or a 6 on the 1st and one on the second all of those will give me a total of 7 and those will be all of the successful possibilities.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "I"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.7,
+        "word": "can"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "roll"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "at"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "3"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "on"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "the"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "1st"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "at"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "4"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "on"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "the"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.0,
+        "word": "2nd"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.8,
+        "word": "a"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "4"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "on"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "the"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.8,
+        "word": "1st"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 4.9,
+        "word": "at"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.1,
+        "word": "3"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "on"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "the"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.8,
+        "word": "2nd"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.1,
+        "word": "a"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.5,
+        "word": "5"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.6,
+        "word": "on"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.7,
+        "word": "the"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.1,
+        "word": "1st"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "at"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.4,
+        "word": "2"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "on"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.6,
+        "word": "the"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.1,
+        "word": "2nd"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.9,
+        "word": "or"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 8.9,
+        "word": "a"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.3,
+        "word": "6"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.4,
+        "word": "on"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.5,
+        "word": "the"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.9,
+        "word": "1st"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 9.9,
+        "word": "and"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.2,
+        "word": "one"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.3,
+        "word": "on"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.5,
+        "word": "the"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.9,
+        "word": "second"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.1,
+        "word": "all"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.3,
+        "word": "of"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.4,
+        "word": "those"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.9,
+        "word": "will"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.2,
+        "word": "give"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.4,
+        "word": "me"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.7,
+        "word": "a"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.1,
+        "word": "total"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.2,
+        "word": "of"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.7,
+        "word": "7"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.6,
+        "word": "and"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 14.8,
+        "word": "those"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.0,
+        "word": "will"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.1,
+        "word": "be"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.3,
+        "word": "all"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.4,
+        "word": "of"
+      },
+      {
+        "startTime": 15.4,
+        "endTime": 15.5,
+        "word": "the"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 16.2,
+        "word": "successful"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 17.4,
+        "word": "possibilities."
+      }
+    ],
+    "length": 17.400000000000006
+  },
+  {
+    "id": 22,
+    "start": 191.5,
+    "end": 195.0,
+    "text": "There are six of them if you count.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "There"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "are"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 2.0,
+        "word": "six"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.0,
+        "word": "of"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "them"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.9,
+        "word": "if"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "you"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.5,
+        "word": "count."
+      }
+    ],
+    "length": 3.5
+  },
+  {
+    "id": 23,
+    "start": 195.0,
+    "end": 204.1,
+    "text": " So we have six successful results and how many total possible possibilities are there?",
+    "words": [
+      {
+        "startTime": 1.7,
+        "endTime": 2.3,
+        "word": "So"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "we"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "have"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.4,
+        "word": "six"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.2,
+        "word": "successful"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.1,
+        "word": "results"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 6.3,
+        "word": "and"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.4,
+        "word": "how"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.6,
+        "word": "many"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.1,
+        "word": "total"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.7,
+        "word": "possible"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.9,
+        "word": "possibilities"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.0,
+        "word": "are"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.1,
+        "word": "there?"
+      }
+    ],
+    "length": 9.099999999999994
+  },
+  {
+    "id": 24,
+    "start": 204.1,
+    "end": 209.6,
+    "text": "Well, the first die has six possibilities II die has six possibilities.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "Well,"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "the"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "first"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.4,
+        "word": "die"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.9,
+        "word": "has"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.5,
+        "word": "six"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.3,
+        "word": "possibilities"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.9,
+        "word": "II"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "die"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.4,
+        "word": "has"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "six"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.5,
+        "word": "possibilities."
+      }
+    ],
+    "length": 5.5
+  },
+  {
+    "id": 25,
+    "start": 209.6,
+    "end": 219.6,
+    "text": "So there's a total of 36 different possible results and the probability for this to be successful is 6 / 36 which becomes 1/6.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "So"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.0,
+        "word": "there's"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.0,
+        "word": "a"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.3,
+        "word": "total"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "of"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.2,
+        "word": "36"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.7,
+        "word": "different"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.1,
+        "word": "possible"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.8,
+        "word": "results"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.6,
+        "word": "and"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "the"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.1,
+        "word": "probability"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "for"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "this"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "to"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.8,
+        "word": "be"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.4,
+        "word": "successful"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.6,
+        "word": "is"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "6"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.2,
+        "word": "/"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 8.1,
+        "word": "36"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.3,
+        "word": "which"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 9.0,
+        "word": "becomes"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 10.0,
+        "word": "1/6."
+      }
+    ],
+    "length": 10.0
+  },
+  {
+    "id": 26,
+    "start": 219.6,
+    "end": 224.5,
+    "text": "So the probability of getting 7 on the next roll is 1 out of 6.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "So"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 0.9,
+        "word": "the"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.5,
+        "word": "probability"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.5,
+        "word": "of"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "getting"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.2,
+        "word": "7"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "on"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "the"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.7,
+        "word": "next"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.1,
+        "word": "roll"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.4,
+        "word": "is"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.9,
+        "word": "1"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "out"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "of"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.9,
+        "word": "6."
+      }
+    ],
+    "length": 4.900000000000006
+  },
+  {
+    "id": 27,
+    "start": 224.5,
+    "end": 231.0,
+    "text": " Well, when you do this the house will play you for chips plus you original chip if you win.",
+    "words": [
+      {
+        "startTime": 1.7,
+        "endTime": 2.2,
+        "word": "Well,"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "when"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "you"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "do"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "this"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "the"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "house"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "will"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "play"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.0,
+        "word": "you"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.4,
+        "word": "for"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "chips"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "plus"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "you"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.7,
+        "word": "original"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.0,
+        "word": "chip"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.1,
+        "word": "if"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.2,
+        "word": "you"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.5,
+        "word": "win."
+      }
+    ],
+    "length": 6.5
+  },
+  {
+    "id": 28,
+    "start": 231.0,
+    "end": 234.9,
+    "text": " Is this a fair bet now?",
+    "words": [
+      {
+        "startTime": 1.8,
+        "endTime": 2.2,
+        "word": "Is"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "this"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "a"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.8,
+        "word": "fair"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "bet"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.9,
+        "word": "now?"
+      }
+    ],
+    "length": 3.9000000000000057
+  },
+  {
+    "id": 29,
+    "start": 234.9,
+    "end": 238.8,
+    "text": "How can you Analyze This imagine you that 36 times?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "How"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.3,
+        "word": "can"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.4,
+        "word": "you"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.7,
+        "word": "Analyze"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.0,
+        "word": "This"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.7,
+        "word": "imagine"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "you"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.5,
+        "word": "that"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.3,
+        "word": "36"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.9,
+        "word": "times?"
+      }
+    ],
+    "length": 3.9000000000000057
+  },
+  {
+    "id": 30,
+    "start": 238.8,
+    "end": 241.0,
+    "text": "So you spent $36?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "So"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "you"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.0,
+        "word": "spent"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 2.2,
+        "word": "$36?"
+      }
+    ],
+    "length": 2.1999999999999886
+  },
+  {
+    "id": 31,
+    "start": 241.0,
+    "end": 245.7,
+    "text": " And you know that 1/6 of the time you're going to be successful.",
+    "words": [
+      {
+        "startTime": 0.8,
+        "endTime": 1.8,
+        "word": "And"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "you"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "know"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "that"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.1,
+        "word": "1/6"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.2,
+        "word": "of"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.3,
+        "word": "the"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.8,
+        "word": "time"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "you're"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.0,
+        "word": "going"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "to"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "be"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.7,
+        "word": "successful."
+      }
+    ],
+    "length": 4.699999999999989
+  },
+  {
+    "id": 32,
+    "start": 245.7,
+    "end": 258.4,
+    "text": "How many dollars will you have after those thirty-six bets assuming that the odds work out exactly perfectly and you get exactly six times out of the 36 that you are successful.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.5,
+        "word": "How"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.0,
+        "word": "many"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 3.3,
+        "word": "dollars"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "will"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "you"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.3,
+        "word": "have"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.7,
+        "word": "after"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.3,
+        "word": "those"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 6.1,
+        "word": "thirty-six"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.5,
+        "word": "bets"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.0,
+        "word": "assuming"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.1,
+        "word": "that"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "the"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.6,
+        "word": "odds"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.8,
+        "word": "work"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.0,
+        "word": "out"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.2,
+        "word": "exactly"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 9.0,
+        "word": "perfectly"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.1,
+        "word": "and"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.2,
+        "word": "you"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.3,
+        "word": "get"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.6,
+        "word": "exactly"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.2,
+        "word": "six"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.2,
+        "word": "times"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.6,
+        "word": "out"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.7,
+        "word": "of"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.8,
+        "word": "the"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.5,
+        "word": "36"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.8,
+        "word": "that"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.1,
+        "word": "you"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.4,
+        "word": "are"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.7,
+        "word": "successful."
+      }
+    ],
+    "length": 12.699999999999989
+  },
+  {
+    "id": 33,
+    "start": 258.4,
+    "end": 265.8,
+    "text": " Have you been able to sort that one out?",
+    "words": [
+      {
+        "startTime": 5.3,
+        "endTime": 5.8,
+        "word": "Have"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "you"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "been"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "able"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.3,
+        "word": "to"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.6,
+        "word": "sort"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "that"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.0,
+        "word": "one"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.4,
+        "word": "out?"
+      }
+    ],
+    "length": 7.400000000000034
+  },
+  {
+    "id": 34,
+    "start": 265.8,
+    "end": 270.4,
+    "text": "You would have gotten for chips for each of the six times.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "You"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.4,
+        "word": "would"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "have"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.9,
+        "word": "gotten"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.6,
+        "word": "for"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.1,
+        "word": "chips"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.8,
+        "word": "for"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.8,
+        "word": "each"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "of"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.0,
+        "word": "the"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.3,
+        "word": "six"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "times."
+      }
+    ],
+    "length": 4.599999999999966
+  },
+  {
+    "id": 35,
+    "start": 270.4,
+    "end": 270.9,
+    "text": "You were successful.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "You"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.2,
+        "word": "were"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.5,
+        "word": "successful."
+      }
+    ],
+    "length": 0.5
+  },
+  {
+    "id": 36,
+    "start": 270.9,
+    "end": 284.6,
+    "text": "So 6 * 4 is 24 plus the six ships that you bet that would be 24 + 6, which is 30 so you would have 30 chips, but you better total of 36 chip.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "So"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.2,
+        "word": "6"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "*"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "4"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "is"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.7,
+        "word": "24"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.6,
+        "word": "plus"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.9,
+        "word": "the"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "six"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "ships"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.2,
+        "word": "that"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "you"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.8,
+        "word": "bet"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.5,
+        "word": "that"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.6,
+        "word": "would"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.7,
+        "word": "be"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.4,
+        "word": "24"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.6,
+        "word": "+"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.9,
+        "word": "6,"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.1,
+        "word": "which"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.2,
+        "word": "is"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.8,
+        "word": "30"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.6,
+        "word": "so"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.8,
+        "word": "you"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 9.9,
+        "word": "would"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 9.9,
+        "word": "have"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.7,
+        "word": "30"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 11.2,
+        "word": "chips,"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.9,
+        "word": "but"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.0,
+        "word": "you"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.3,
+        "word": "better"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.6,
+        "word": "total"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 12.7,
+        "word": "of"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.4,
+        "word": "36"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 13.7,
+        "word": "chip."
+      }
+    ],
+    "length": 13.700000000000045
+  },
+  {
+    "id": 37,
+    "start": 284.6,
+    "end": 295.7,
+    "text": "So you end up losing six ships, even if it comes up with exactly the probability that it should come up so it isn't fair how much should they pay in order to make it fair?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "So"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.2,
+        "word": "you"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.4,
+        "word": "end"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "up"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.9,
+        "word": "losing"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "six"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "ships,"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 2.1,
+        "word": "even"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.6,
+        "word": "if"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "it"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "comes"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.3,
+        "word": "up"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 4.0,
+        "word": "with"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.4,
+        "word": "exactly"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "the"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.4,
+        "word": "probability"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.5,
+        "word": "that"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.7,
+        "word": "it"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.0,
+        "word": "should"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "come"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.3,
+        "word": "up"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 7.2,
+        "word": "so"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.4,
+        "word": "it"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "isn't"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.8,
+        "word": "fair"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 9.1,
+        "word": "how"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.3,
+        "word": "much"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.6,
+        "word": "should"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.7,
+        "word": "they"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.0,
+        "word": "pay"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.3,
+        "word": "in"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.5,
+        "word": "order"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.5,
+        "word": "to"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.8,
+        "word": "make"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 10.9,
+        "word": "it"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.1,
+        "word": "fair?"
+      }
+    ],
+    "length": 11.099999999999966
+  },
+  {
+    "id": 38,
+    "start": 295.7,
+    "end": 309.8,
+    "text": "That should give you one more chip if they paid you five chips plus the original chip, then you would have exactly the amount that you would need to make it a fair bit, but they keep one chip and then the odds are stacked toward the house.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "That"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "should"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "give"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "you"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "one"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "more"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "chip"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.5,
+        "word": "if"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "they"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "paid"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "you"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "five"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.9,
+        "word": "chips"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "plus"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "the"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.7,
+        "word": "original"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.0,
+        "word": "chip,"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.5,
+        "word": "then"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "you"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "would"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.8,
+        "word": "have"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.7,
+        "word": "exactly"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.8,
+        "word": "the"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.2,
+        "word": "amount"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.5,
+        "word": "that"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.6,
+        "word": "you"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.8,
+        "word": "would"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "need"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.1,
+        "word": "to"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.3,
+        "word": "make"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.5,
+        "word": "it"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.5,
+        "word": "a"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.8,
+        "word": "fair"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.2,
+        "word": "bit,"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.9,
+        "word": "but"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.0,
+        "word": "they"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.3,
+        "word": "keep"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.5,
+        "word": "one"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.0,
+        "word": "chip"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.5,
+        "word": "and"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.9,
+        "word": "then"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.3,
+        "word": "the"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.6,
+        "word": "odds"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 12.7,
+        "word": "are"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.2,
+        "word": "stacked"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.7,
+        "word": "toward"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 13.8,
+        "word": "the"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.1,
+        "word": "house."
+      }
+    ],
+    "length": 14.100000000000023
+  },
+  {
+    "id": 39,
+    "start": 309.8,
+    "end": 314.0,
+    "text": " Okay, let's go on tour next example.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 2.1,
+        "word": "Okay,"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "let's"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "go"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "on"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.9,
+        "word": "tour"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "next"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 4.2,
+        "word": "example."
+      }
+    ],
+    "length": 4.199999999999989
+  },
+  {
+    "id": 40,
+    "start": 314.0,
+    "end": 332.6,
+    "text": " Wake me looking at another vet that you can make and that one is called rolling craps craps is defined as rolling a two or three or a 12 and I would like you to figure out what the probability is to roll a 2 or 3 or 12.",
+    "words": [
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "Wake"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "me"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "looking"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "at"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "another"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.2,
+        "word": "vet"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "that"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "you"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "can"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.0,
+        "word": "make"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.6,
+        "word": "and"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "that"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "one"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "is"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.4,
+        "word": "called"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.9,
+        "word": "rolling"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.4,
+        "word": "craps"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.5,
+        "word": "craps"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.6,
+        "word": "is"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.2,
+        "word": "defined"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.4,
+        "word": "as"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.7,
+        "word": "rolling"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.8,
+        "word": "a"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.1,
+        "word": "two"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.4,
+        "word": "or"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.7,
+        "word": "three"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.1,
+        "word": "or"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.2,
+        "word": "a"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.8,
+        "word": "12"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.7,
+        "word": "and"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.8,
+        "word": "I"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 11.9,
+        "word": "would"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.0,
+        "word": "like"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.4,
+        "word": "you"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.6,
+        "word": "to"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 13.7,
+        "word": "figure"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.0,
+        "word": "out"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 15.2,
+        "word": "what"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 15.3,
+        "word": "the"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.6,
+        "word": "probability"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 16.4,
+        "word": "is"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.5,
+        "word": "to"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.7,
+        "word": "roll"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 16.9,
+        "word": "a"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.2,
+        "word": "2"
+      },
+      {
+        "startTime": 17.2,
+        "endTime": 17.3,
+        "word": "or"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.7,
+        "word": "3"
+      },
+      {
+        "startTime": 17.7,
+        "endTime": 17.8,
+        "word": "or"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 18.6,
+        "word": "12."
+      }
+    ],
+    "length": 18.600000000000023
+  },
+  {
+    "id": 41,
+    "start": 332.6,
+    "end": 339.6,
+    "text": "So we're going to pause a video now and have you determine what that probability is and then we'll discuss what the answer is.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "So"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "we're"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "going"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.1,
+        "word": "to"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "pause"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "a"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.6,
+        "word": "video"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "now"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "and"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "have"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "you"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.3,
+        "word": "determine"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "what"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "that"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.0,
+        "word": "probability"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.6,
+        "word": "is"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.3,
+        "word": "and"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.4,
+        "word": "then"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.5,
+        "word": "we'll"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.9,
+        "word": "discuss"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.3,
+        "word": "what"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "the"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.9,
+        "word": "answer"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "is."
+      }
+    ],
+    "length": 7.0
+  },
+  {
+    "id": 42,
+    "start": 339.6,
+    "end": 349.4,
+    "text": " Okay.",
+    "words": [
+      {
+        "startTime": 9.3,
+        "endTime": 9.8,
+        "word": "Okay."
+      }
+    ],
+    "length": 9.799999999999955
+  },
+  {
+    "id": 43,
+    "start": 349.4,
+    "end": 351.3,
+    "text": "I hope you've been able to get a solution for this.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "I"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.3,
+        "word": "hope"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.5,
+        "word": "you've"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.6,
+        "word": "been"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "able"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "to"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "get"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "a"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "solution"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "for"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "this."
+      }
+    ],
+    "length": 1.900000000000034
+  },
+  {
+    "id": 44,
+    "start": 351.3,
+    "end": 359.9,
+    "text": " The probability is going to be calculated by simply enumerating all of the successful options.",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "The"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.1,
+        "word": "probability"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.9,
+        "word": "is"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.8,
+        "word": "going"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.1,
+        "word": "to"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.7,
+        "word": "be"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.2,
+        "word": "calculated"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.6,
+        "word": "by"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.4,
+        "word": "simply"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.1,
+        "word": "enumerating"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.3,
+        "word": "all"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "of"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "the"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.0,
+        "word": "successful"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.6,
+        "word": "options."
+      }
+    ],
+    "length": 8.599999999999966
+  },
+  {
+    "id": 45,
+    "start": 359.9,
+    "end": 364.5,
+    "text": "I can roll it to which is a one and a one that only can happen one way.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "I"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "can"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.0,
+        "word": "roll"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "it"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "to"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.6,
+        "word": "which"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.7,
+        "word": "is"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "a"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "one"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.1,
+        "word": "and"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "a"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.5,
+        "word": "one"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.1,
+        "word": "that"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "only"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.6,
+        "word": "can"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.2,
+        "word": "happen"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.5,
+        "word": "one"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.6,
+        "word": "way."
+      }
+    ],
+    "length": 4.600000000000023
+  },
+  {
+    "id": 46,
+    "start": 364.5,
+    "end": 368.6,
+    "text": "I can roll a three which is a 1/2 or a 2-1 that can happen to different ways.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "I"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.6,
+        "word": "can"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "roll"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "a"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "three"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "which"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "is"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "a"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.1,
+        "word": "1/2"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "or"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "a"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.0,
+        "word": "2-1"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "that"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "can"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "happen"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "to"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "different"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "ways."
+      }
+    ],
+    "length": 4.100000000000023
+  },
+  {
+    "id": 47,
+    "start": 368.6,
+    "end": 381.7,
+    "text": "Why can roll at 12 which is a six 6 so therefore successful possibilities and as we know they're 36 total possibilities, so I have four out of 36 or one out of nine times.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "Why"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "can"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "roll"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "at"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "12"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "which"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "is"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "a"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "six"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.8,
+        "word": "6"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.4,
+        "word": "so"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "therefore"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.5,
+        "word": "successful"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.3,
+        "word": "possibilities"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.5,
+        "word": "and"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "as"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "we"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.9,
+        "word": "know"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "they're"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.8,
+        "word": "36"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.1,
+        "word": "total"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 8.5,
+        "word": "possibilities,"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 9.0,
+        "word": "so"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.1,
+        "word": "I"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.3,
+        "word": "have"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.7,
+        "word": "four"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.9,
+        "word": "out"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 9.9,
+        "word": "of"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.8,
+        "word": "36"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.6,
+        "word": "or"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.9,
+        "word": "one"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.0,
+        "word": "out"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.1,
+        "word": "of"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.3,
+        "word": "nine"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 13.1,
+        "word": "times."
+      }
+    ],
+    "length": 13.099999999999966
+  },
+  {
+    "id": 48,
+    "start": 381.7,
+    "end": 382.8,
+    "text": "Will I roll craps?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "Will"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.3,
+        "word": "I"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.7,
+        "word": "roll"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.1,
+        "word": "craps?"
+      }
+    ],
+    "length": 1.1000000000000227
+  },
+  {
+    "id": 49,
+    "start": 382.8,
+    "end": 387.4,
+    "text": " Now what is the payoff from the house?",
+    "words": [
+      {
+        "startTime": 2.6,
+        "endTime": 3.0,
+        "word": "Now"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "what"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.3,
+        "word": "is"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "the"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.8,
+        "word": "payoff"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.1,
+        "word": "from"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "the"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "house?"
+      }
+    ],
+    "length": 4.599999999999966
+  },
+  {
+    "id": 50,
+    "start": 387.4,
+    "end": 391.6,
+    "text": "Well, the house is going to pay you seven ships plus your original chip.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "Well,"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "the"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "house"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "is"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "going"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "to"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "pay"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "you"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "seven"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "ships"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "plus"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "your"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.8,
+        "word": "original"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "chip."
+      }
+    ],
+    "length": 4.2000000000000455
+  },
+  {
+    "id": 51,
+    "start": 391.6,
+    "end": 395.0,
+    "text": "And is this a fair bet?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.8,
+        "word": "And"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.7,
+        "word": "is"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.8,
+        "word": "this"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "a"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "fair"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "bet?"
+      }
+    ],
+    "length": 3.3999999999999773
+  },
+  {
+    "id": 52,
+    "start": 395.0,
+    "end": 401.8,
+    "text": " I hope you sort it out.",
+    "words": [
+      {
+        "startTime": 5.5,
+        "endTime": 5.8,
+        "word": "I"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.1,
+        "word": "hope"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.3,
+        "word": "you"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "sort"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.6,
+        "word": "it"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "out."
+      }
+    ],
+    "length": 6.800000000000011
+  },
+  {
+    "id": 53,
+    "start": 401.8,
+    "end": 410.3,
+    "text": "Once again that no, it is not a fair bet because you'll be losing in this situation if they paid eight ships, but the original chips.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "Once"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.3,
+        "word": "again"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.7,
+        "word": "that"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "no,"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "it"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "is"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "not"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "a"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.2,
+        "word": "fair"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "bet"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.3,
+        "word": "because"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 4.0,
+        "word": "you'll"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "be"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.4,
+        "word": "losing"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.1,
+        "word": "in"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "this"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "situation"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.2,
+        "word": "if"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.4,
+        "word": "they"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.7,
+        "word": "paid"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.1,
+        "word": "eight"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.4,
+        "word": "ships,"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.6,
+        "word": "but"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.8,
+        "word": "the"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.2,
+        "word": "original"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.5,
+        "word": "chips."
+      }
+    ],
+    "length": 8.5
+  },
+  {
+    "id": 54,
+    "start": 410.3,
+    "end": 434.3,
+    "text": "Are you got a total of nine every time anyone then if you made 36 bets you'd Win 4 x 4 x 9 would be 36 and you have even money the way that it's set up now if you bet 36 x you'll win four times and you'll get four times 8 or 32 chips and you'll be losing for chips out of every 36 that you run.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "Are"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.3,
+        "word": "you"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.5,
+        "word": "got"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.6,
+        "word": "a"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "total"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "of"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.6,
+        "word": "nine"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.9,
+        "word": "every"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.2,
+        "word": "time"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "anyone"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.5,
+        "word": "then"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.6,
+        "word": "if"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "you"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "made"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.5,
+        "word": "36"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.0,
+        "word": "bets"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.2,
+        "word": "you'd"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "Win"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "4"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.4,
+        "word": "x"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.2,
+        "word": "4"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.4,
+        "word": "x"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.7,
+        "word": "9"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.9,
+        "word": "would"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "be"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.7,
+        "word": "36"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.8,
+        "word": "and"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 8.9,
+        "word": "you"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.1,
+        "word": "have"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.4,
+        "word": "even"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.7,
+        "word": "money"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.0,
+        "word": "the"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.1,
+        "word": "way"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.3,
+        "word": "that"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.5,
+        "word": "it's"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.6,
+        "word": "set"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.7,
+        "word": "up"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.8,
+        "word": "now"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.8,
+        "word": "if"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 11.9,
+        "word": "you"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.1,
+        "word": "bet"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.7,
+        "word": "36"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.2,
+        "word": "x"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.5,
+        "word": "you'll"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.8,
+        "word": "win"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.1,
+        "word": "four"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.7,
+        "word": "times"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 16.0,
+        "word": "and"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.2,
+        "word": "you'll"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.5,
+        "word": "get"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.9,
+        "word": "four"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.3,
+        "word": "times"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.6,
+        "word": "8"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 17.7,
+        "word": "or"
+      },
+      {
+        "startTime": 17.7,
+        "endTime": 18.3,
+        "word": "32"
+      },
+      {
+        "startTime": 18.3,
+        "endTime": 18.7,
+        "word": "chips"
+      },
+      {
+        "startTime": 18.7,
+        "endTime": 19.5,
+        "word": "and"
+      },
+      {
+        "startTime": 19.5,
+        "endTime": 19.7,
+        "word": "you'll"
+      },
+      {
+        "startTime": 19.7,
+        "endTime": 19.9,
+        "word": "be"
+      },
+      {
+        "startTime": 19.9,
+        "endTime": 20.1,
+        "word": "losing"
+      },
+      {
+        "startTime": 20.1,
+        "endTime": 20.6,
+        "word": "for"
+      },
+      {
+        "startTime": 20.6,
+        "endTime": 21.1,
+        "word": "chips"
+      },
+      {
+        "startTime": 21.1,
+        "endTime": 21.6,
+        "word": "out"
+      },
+      {
+        "startTime": 21.6,
+        "endTime": 21.6,
+        "word": "of"
+      },
+      {
+        "startTime": 21.6,
+        "endTime": 21.9,
+        "word": "every"
+      },
+      {
+        "startTime": 21.9,
+        "endTime": 22.7,
+        "word": "36"
+      },
+      {
+        "startTime": 22.7,
+        "endTime": 22.9,
+        "word": "that"
+      },
+      {
+        "startTime": 22.9,
+        "endTime": 23.4,
+        "word": "you"
+      },
+      {
+        "startTime": 23.4,
+        "endTime": 24.0,
+        "word": "run."
+      }
+    ],
+    "length": 24.0
+  },
+  {
+    "id": 55,
+    "start": 434.3,
+    "end": 436.4,
+    "text": "And so it's not very fair.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "And"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "so"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "it's"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "not"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "very"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "fair."
+      }
+    ],
+    "length": 2.099999999999966
+  },
+  {
+    "id": 56,
+    "start": 436.4,
+    "end": 439.1,
+    "text": "Okay, we're going to go to our last example.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.3,
+        "word": "Okay,"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "we're"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.5,
+        "word": "going"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "to"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "go"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.8,
+        "word": "to"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "our"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.2,
+        "word": "last"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.7,
+        "word": "example."
+      }
+    ],
+    "length": 2.7000000000000455
+  },
+  {
+    "id": 57,
+    "start": 439.1,
+    "end": 457.9,
+    "text": "Our last example is something called getting it the hard way a hard way six-bit says that you're going to roll the doubles three three before a soft 6, which is a 1/5 at 2 for a 4-2 or a 5-1 is rolled.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "Our"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.3,
+        "word": "last"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "example"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "is"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "something"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "called"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 4.1,
+        "word": "getting"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "it"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "the"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.9,
+        "word": "hard"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "way"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 6.1,
+        "word": "a"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.7,
+        "word": "hard"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.9,
+        "word": "way"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.7,
+        "word": "six-bit"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.9,
+        "word": "says"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.1,
+        "word": "that"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.2,
+        "word": "you're"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.3,
+        "word": "going"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "to"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.8,
+        "word": "roll"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.3,
+        "word": "the"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 10.2,
+        "word": "doubles"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 11.0,
+        "word": "three"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.3,
+        "word": "three"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 12.0,
+        "word": "before"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 13.3,
+        "word": "a"
+      },
+      {
+        "startTime": 13.3,
+        "endTime": 14.0,
+        "word": "soft"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.4,
+        "word": "6,"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.7,
+        "word": "which"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 14.7,
+        "word": "is"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 14.8,
+        "word": "a"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.5,
+        "word": "1/5"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 15.6,
+        "word": "at"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 15.7,
+        "word": "2"
+      },
+      {
+        "startTime": 15.7,
+        "endTime": 16.2,
+        "word": "for"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.4,
+        "word": "a"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 17.0,
+        "word": "4-2"
+      },
+      {
+        "startTime": 17.0,
+        "endTime": 17.2,
+        "word": "or"
+      },
+      {
+        "startTime": 17.2,
+        "endTime": 17.3,
+        "word": "a"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 18.0,
+        "word": "5-1"
+      },
+      {
+        "startTime": 18.0,
+        "endTime": 18.3,
+        "word": "is"
+      },
+      {
+        "startTime": 18.3,
+        "endTime": 18.8,
+        "word": "rolled."
+      }
+    ],
+    "length": 18.799999999999955
+  },
+  {
+    "id": 58,
+    "start": 457.9,
+    "end": 460.6,
+    "text": " Or a seven is rolled.",
+    "words": [
+      {
+        "startTime": 0.6,
+        "endTime": 1.3,
+        "word": "Or"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "a"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.2,
+        "word": "seven"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "is"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "rolled."
+      }
+    ],
+    "length": 2.7000000000000455
+  },
+  {
+    "id": 59,
+    "start": 460.6,
+    "end": 470.4,
+    "text": "So you're betting you can roll six the hard way or the roller Will Roll six the hard way by getting doubles before another six or seven is roll.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "So"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "you're"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "betting"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.7,
+        "word": "you"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "can"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "roll"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "six"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "the"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.9,
+        "word": "hard"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "way"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "or"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "the"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.0,
+        "word": "roller"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "Will"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "Roll"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "six"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "the"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.0,
+        "word": "hard"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.1,
+        "word": "way"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "by"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.5,
+        "word": "getting"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.1,
+        "word": "doubles"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.7,
+        "word": "before"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.8,
+        "word": "another"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.4,
+        "word": "six"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.6,
+        "word": "or"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.2,
+        "word": "seven"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.4,
+        "word": "is"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.8,
+        "word": "roll."
+      }
+    ],
+    "length": 9.799999999999955
+  },
+  {
+    "id": 60,
+    "start": 470.4,
+    "end": 479.6,
+    "text": "If no 6 or 7 is rolled then the vet continues to be on and you get another chance to see whether or not you win.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "If"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "no"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "6"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "or"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "7"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "is"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.1,
+        "word": "rolled"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "then"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.6,
+        "word": "the"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "vet"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.7,
+        "word": "continues"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.8,
+        "word": "to"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.0,
+        "word": "be"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.4,
+        "word": "on"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 6.9,
+        "word": "and"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.1,
+        "word": "you"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "get"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.3,
+        "word": "another"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.9,
+        "word": "chance"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "to"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.2,
+        "word": "see"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.5,
+        "word": "whether"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.5,
+        "word": "or"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.6,
+        "word": "not"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.9,
+        "word": "you"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.2,
+        "word": "win."
+      }
+    ],
+    "length": 9.200000000000045
+  },
+  {
+    "id": 61,
+    "start": 479.6,
+    "end": 490.5,
+    "text": "So given these rules see if you can determine what is the probability that you will win if you bet a hard way six.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "So"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.2,
+        "word": "given"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 2.0,
+        "word": "these"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.8,
+        "word": "rules"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.3,
+        "word": "see"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "if"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.6,
+        "word": "you"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.8,
+        "word": "can"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.1,
+        "word": "determine"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.5,
+        "word": "what"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.6,
+        "word": "is"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "the"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.2,
+        "word": "probability"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.7,
+        "word": "that"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.0,
+        "word": "you"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.1,
+        "word": "will"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 7.1,
+        "word": "win"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.5,
+        "word": "if"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.9,
+        "word": "you"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.7,
+        "word": "bet"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.4,
+        "word": "a"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.9,
+        "word": "hard"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.2,
+        "word": "way"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.9,
+        "word": "six."
+      }
+    ],
+    "length": 10.899999999999977
+  },
+  {
+    "id": 62,
+    "start": 490.5,
+    "end": 493.4,
+    "text": " Please pause the video now and give it a try.",
+    "words": [
+      {
+        "startTime": 0.9,
+        "endTime": 1.4,
+        "word": "Please"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.6,
+        "word": "pause"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.9,
+        "word": "the"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "video"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "now"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.5,
+        "word": "and"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "give"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.8,
+        "word": "it"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.8,
+        "word": "a"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "try."
+      }
+    ],
+    "length": 2.8999999999999773
+  },
+  {
+    "id": 63,
+    "start": 493.4,
+    "end": 507.8,
+    "text": " Okay, let's take a look at how we analyze this situation.",
+    "words": [
+      {
+        "startTime": 9.3,
+        "endTime": 9.9,
+        "word": "Okay,"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.2,
+        "word": "let's"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.6,
+        "word": "take"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.7,
+        "word": "a"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.9,
+        "word": "look"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.0,
+        "word": "at"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.2,
+        "word": "how"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.3,
+        "word": "we"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 12.5,
+        "word": "analyze"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 13.1,
+        "word": "this"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 14.4,
+        "word": "situation."
+      }
+    ],
+    "length": 14.400000000000034
+  },
+  {
+    "id": 64,
+    "start": 507.8,
+    "end": 512.6,
+    "text": " There's only one successful roll.",
+    "words": [
+      {
+        "startTime": 2.9,
+        "endTime": 3.4,
+        "word": "There's"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "only"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "one"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.4,
+        "word": "successful"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "roll."
+      }
+    ],
+    "length": 4.800000000000011
+  },
+  {
+    "id": 65,
+    "start": 512.6,
+    "end": 530.8,
+    "text": "That's the three three, but there are 4 + 6 equals 10 unsuccessful rolls their the for software sixes or their the six different ways that you can roll a 7 so there's a total of eleven possibilities here and only one is successful.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "That's"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "the"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "three"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "three,"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 2.0,
+        "word": "but"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "there"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "are"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.6,
+        "word": "4"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.1,
+        "word": "+"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.6,
+        "word": "6"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.6,
+        "word": "equals"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.2,
+        "word": "10"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 7.1,
+        "word": "unsuccessful"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.5,
+        "word": "rolls"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.7,
+        "word": "their"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.9,
+        "word": "the"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.3,
+        "word": "for"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.9,
+        "word": "software"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.5,
+        "word": "sixes"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.4,
+        "word": "or"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.6,
+        "word": "their"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.7,
+        "word": "the"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 11.0,
+        "word": "six"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.2,
+        "word": "different"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.4,
+        "word": "ways"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.6,
+        "word": "that"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.7,
+        "word": "you"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.9,
+        "word": "can"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.0,
+        "word": "roll"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.2,
+        "word": "a"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.7,
+        "word": "7"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.3,
+        "word": "so"
+      },
+      {
+        "startTime": 13.3,
+        "endTime": 13.5,
+        "word": "there's"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.6,
+        "word": "a"
+      },
+      {
+        "startTime": 13.6,
+        "endTime": 14.0,
+        "word": "total"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.4,
+        "word": "of"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 15.1,
+        "word": "eleven"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 16.1,
+        "word": "possibilities"
+      },
+      {
+        "startTime": 16.1,
+        "endTime": 16.3,
+        "word": "here"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 17.3,
+        "word": "and"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.4,
+        "word": "only"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 17.8,
+        "word": "one"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 17.8,
+        "word": "is"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 18.2,
+        "word": "successful."
+      }
+    ],
+    "length": 18.199999999999932
+  },
+  {
+    "id": 66,
+    "start": 530.8,
+    "end": 534.3,
+    "text": "So the probably do to win is 1 out of 11.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "So"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.6,
+        "word": "the"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.0,
+        "word": "probably"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "do"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "to"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "win"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "is"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.7,
+        "word": "1"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "out"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "of"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.5,
+        "word": "11."
+      }
+    ],
+    "length": 3.5
+  },
+  {
+    "id": 67,
+    "start": 534.3,
+    "end": 539.4,
+    "text": "Now the house will pay nine ships plus you original chip if you win.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.2,
+        "word": "Now"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.7,
+        "word": "the"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "house"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "will"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "pay"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "nine"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "ships"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.3,
+        "word": "plus"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "you"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.0,
+        "word": "original"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.3,
+        "word": "chip"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "if"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.8,
+        "word": "you"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "win."
+      }
+    ],
+    "length": 5.100000000000023
+  },
+  {
+    "id": 68,
+    "start": 539.4,
+    "end": 542.7,
+    "text": " And once again is this fair.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "And"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "once"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "again"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.7,
+        "word": "is"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "this"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.3,
+        "word": "fair."
+      }
+    ],
+    "length": 3.300000000000068
+  },
+  {
+    "id": 69,
+    "start": 542.7,
+    "end": 546.0,
+    "text": "You can see a pattern developing here.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "You"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "can"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.7,
+        "word": "see"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "a"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.2,
+        "word": "pattern"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "developing"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.3,
+        "word": "here."
+      }
+    ],
+    "length": 3.2999999999999545
+  },
+  {
+    "id": 70,
+    "start": 546.0,
+    "end": 548.5,
+    "text": "If you have been paying attention all the way through.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "If"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.5,
+        "word": "you"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.7,
+        "word": "have"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "been"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "paying"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "attention"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.9,
+        "word": "all"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "the"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "way"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "through."
+      }
+    ],
+    "length": 2.5
+  },
+  {
+    "id": 71,
+    "start": 548.5,
+    "end": 554.2,
+    "text": " The answer of course is no it is not fair.",
+    "words": [
+      {
+        "startTime": 3.2,
+        "endTime": 3.6,
+        "word": "The"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "answer"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.0,
+        "word": "of"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "course"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.5,
+        "word": "is"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.8,
+        "word": "no"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "it"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "is"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.2,
+        "word": "not"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.7,
+        "word": "fair."
+      }
+    ],
+    "length": 5.7000000000000455
+  },
+  {
+    "id": 72,
+    "start": 554.2,
+    "end": 558.8,
+    "text": " How much should they pay in order for it to be paid to be fair?",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "How"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.9,
+        "word": "much"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "should"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "they"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.5,
+        "word": "pay"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "in"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "order"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "for"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "it"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.2,
+        "word": "to"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.3,
+        "word": "be"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.6,
+        "word": "paid"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.2,
+        "word": "to"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "be"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "fair?"
+      }
+    ],
+    "length": 4.599999999999909
+  },
+  {
+    "id": 73,
+    "start": 558.8,
+    "end": 560.8,
+    "text": "They need to pay one more chip.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "They"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "need"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "to"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "pay"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.5,
+        "word": "one"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.5,
+        "word": "more"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.0,
+        "word": "chip."
+      }
+    ],
+    "length": 2.0
+  },
+  {
+    "id": 74,
+    "start": 560.8,
+    "end": 570.3,
+    "text": "So if they gave us 10 shifts plus our original chip, then it would be a fair bet but giving us 9 6 Plus original chip makes it unfair.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "So"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "if"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "they"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "gave"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "us"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "10"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "shifts"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "plus"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "our"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.7,
+        "word": "original"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "chip,"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.6,
+        "word": "then"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.4,
+        "word": "it"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "would"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.6,
+        "word": "be"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.8,
+        "word": "a"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "fair"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "bet"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 6.4,
+        "word": "but"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.7,
+        "word": "giving"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.8,
+        "word": "us"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.1,
+        "word": "9"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.4,
+        "word": "6"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.7,
+        "word": "Plus"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.8,
+        "word": "original"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.5,
+        "word": "chip"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.8,
+        "word": "makes"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 8.9,
+        "word": "it"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.5,
+        "word": "unfair."
+      }
+    ],
+    "length": 9.5
+  },
+  {
+    "id": 75,
+    "start": 570.3,
+    "end": 574.6,
+    "text": "And once again, it gives the odds in the houses favor.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "And"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "once"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "again,"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "it"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "gives"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "the"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.7,
+        "word": "odds"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "in"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.3,
+        "word": "the"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.8,
+        "word": "houses"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.3,
+        "word": "favor."
+      }
+    ],
+    "length": 4.300000000000068
+  },
+  {
+    "id": 76,
+    "start": 574.6,
+    "end": 577.5,
+    "text": "So I hope that you have",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "So"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.3,
+        "word": "I"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "hope"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.9,
+        "word": "that"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.4,
+        "word": "you"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.9,
+        "word": "have"
+      }
+    ],
+    "length": 2.8999999999999773
+  },
+  {
+    "id": 77,
+    "start": 577.5,
+    "end": 583.3,
+    "text": " Gotten a little bit more experience with understanding how we calculate probabilities.",
+    "words": [
+      {
+        "startTime": 1.5,
+        "endTime": 2.1,
+        "word": "Gotten"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.1,
+        "word": "a"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "little"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "bit"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "more"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "experience"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.5,
+        "word": "with"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.1,
+        "word": "understanding"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "how"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "we"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "calculate"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.8,
+        "word": "probabilities."
+      }
+    ],
+    "length": 5.7999999999999545
+  },
+  {
+    "id": 78,
+    "start": 583.3,
+    "end": 585.2,
+    "text": "The rule is still very simple.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "The"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.9,
+        "word": "rule"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "is"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "still"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.5,
+        "word": "very"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "simple."
+      }
+    ],
+    "length": 1.900000000000091
+  },
+  {
+    "id": 79,
+    "start": 585.2,
+    "end": 591.7,
+    "text": "We find the number of successful events and we divided by the total number of possible events something like the hard way roll.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "We"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.4,
+        "word": "find"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "the"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "number"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "of"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.4,
+        "word": "successful"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.9,
+        "word": "events"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.2,
+        "word": "and"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "we"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "divided"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "by"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "the"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "total"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.5,
+        "word": "number"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.5,
+        "word": "of"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.0,
+        "word": "possible"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "events"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.4,
+        "word": "something"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "like"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "the"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.1,
+        "word": "hard"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.2,
+        "word": "way"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.5,
+        "word": "roll."
+      }
+    ],
+    "length": 6.5
+  },
+  {
+    "id": 80,
+    "start": 591.7,
+    "end": 602.9,
+    "text": "We have to be very careful about determining what those number of possible events are because there's some events that that don't count if I rolled an 8, then it doesn't count as if there was a bit.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "We"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.2,
+        "word": "have"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.3,
+        "word": "to"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.4,
+        "word": "be"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "very"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "careful"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "about"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.7,
+        "word": "determining"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "what"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.2,
+        "word": "those"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 3.7,
+        "word": "number"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "of"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.4,
+        "word": "possible"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "events"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.0,
+        "word": "are"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.2,
+        "word": "because"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "there's"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "some"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.9,
+        "word": "events"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 5.9,
+        "word": "that"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.3,
+        "word": "that"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "don't"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.8,
+        "word": "count"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.0,
+        "word": "if"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.1,
+        "word": "I"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.4,
+        "word": "rolled"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "an"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.9,
+        "word": "8,"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.7,
+        "word": "then"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.2,
+        "word": "it"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.5,
+        "word": "doesn't"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.8,
+        "word": "count"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.3,
+        "word": "as"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.4,
+        "word": "if"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.6,
+        "word": "there"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.7,
+        "word": "was"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.8,
+        "word": "a"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.2,
+        "word": "bit."
+      }
+    ],
+    "length": 11.199999999999932
+  },
+  {
+    "id": 81,
+    "start": 602.9,
+    "end": 621.6,
+    "text": "So this is the kind of probability that you should be comfortable with calculating you're going to get a couple more examples for how to do it as we go forward in the module and I hope that by the time you finish it, you will become a real expert in probability and would that this has been Quantum Mechanics for everyone?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "So"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "this"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "is"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "the"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.4,
+        "word": "kind"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "of"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 3.5,
+        "word": "probability"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "that"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "you"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "should"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.2,
+        "word": "be"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "comfortable"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "with"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.5,
+        "word": "calculating"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "you're"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "going"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "to"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 5.9,
+        "word": "get"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "a"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "couple"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.4,
+        "word": "more"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.0,
+        "word": "examples"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.1,
+        "word": "for"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.3,
+        "word": "how"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "to"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.6,
+        "word": "do"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.8,
+        "word": "it"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.0,
+        "word": "as"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.2,
+        "word": "we"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.2,
+        "word": "go"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.6,
+        "word": "forward"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.1,
+        "word": "in"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.2,
+        "word": "the"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.7,
+        "word": "module"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.6,
+        "word": "and"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.2,
+        "word": "I"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.5,
+        "word": "hope"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.7,
+        "word": "that"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.0,
+        "word": "by"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.1,
+        "word": "the"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.1,
+        "word": "time"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.4,
+        "word": "you"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.6,
+        "word": "finish"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 12.9,
+        "word": "it,"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.1,
+        "word": "you"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.2,
+        "word": "will"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.6,
+        "word": "become"
+      },
+      {
+        "startTime": 13.6,
+        "endTime": 13.8,
+        "word": "a"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.1,
+        "word": "real"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.5,
+        "word": "expert"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 14.6,
+        "word": "in"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 15.3,
+        "word": "probability"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.8,
+        "word": "and"
+      },
+      {
+        "startTime": 15.8,
+        "endTime": 16.0,
+        "word": "would"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.0,
+        "word": "that"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.3,
+        "word": "this"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 16.5,
+        "word": "has"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.6,
+        "word": "been"
+      },
+      {
+        "startTime": 16.6,
+        "endTime": 17.0,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 17.0,
+        "endTime": 17.5,
+        "word": "Mechanics"
+      },
+      {
+        "startTime": 17.5,
+        "endTime": 18.1,
+        "word": "for"
+      },
+      {
+        "startTime": 18.1,
+        "endTime": 18.7,
+        "word": "everyone?"
+      }
+    ],
+    "length": 18.700000000000045
+  }
+]

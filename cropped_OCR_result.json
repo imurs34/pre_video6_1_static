@@ -1,0 +1,418 @@
+[
+  {
+    "start": 86.44, 
+    "end": 105.64, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          46, 
+          28, 
+          381, 
+          584
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "[TITLE]  Hate 1s the fools name for chance", 
+        "location": [
+          537, 
+          36, 
+          573, 
+          46
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1114, 
+          36, 
+          14, 
+          12
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "     Ink the more correct way to describe this Is the inverse \u2018fate is the fools name for chance\u201d. s scientists, we focus on the facts, and while one may ant to argue about the existence or not of fate, chance i omething that is real, that we can compute, and we do s ithin the science of probability. e have already introduced the basic ideas of probability. ow, we will use them to describe the chance for success na gambling game with dice called craps. e won't analyze everything ", 
+        "location": [
+          479, 
+          127, 
+          724, 
+          356
+        ], 
+        "block_num": 3
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 163.28, 
+    "end": 182.48, 
+    "ocr_result": [
+      {
+        "text": "   alcu. ating ti e pro a1 ity raps is a game played with two dice. One person rolls the ice and others bet on what the outcome will be. Suppose ach bet you place costs one chip. The house pays you bac hips when you make a correct prediction. Like all gambling, he odds are stacked for the house and against you. ne bet you can make is that the next roll will be a seven. hat is the probability for this to occur? Pause the video. Calculate the probability to roll a seven with two dice in one roll.   ", 
+        "location": [
+          479, 
+          23, 
+          747, 
+          589
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          46, 
+          28, 
+          381, 
+          584
+        ], 
+        "block_num": 1
+      }
+    ], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 201.68, 
+    "end": 220.88, 
+    "ocr_result": [
+      {
+        "text": "   HE OE A oe eo eo", 
+        "location": [
+          480, 
+          23, 
+          746, 
+          387
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "   ", 
+        "location": [
+          46, 
+          28, 
+          381, 
+          584
+        ], 
+        "block_num": 1
+      }
+    ], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 316.88, 
+    "end": 336.08, 
+    "ocr_result": [
+      {
+        "text": "   alcu. ating ti e pro a1 ity raps is a game played with two dice. One person rolls the ice and others bet on what the outcome will be. Suppose ach bet you place costs one chip. The house pays you bac hips when you make a correct prediction. Like all gambling, he odds are stacked for the house and against you. ne bet you can make is that the next roll will be a seven. hat is the probability for this to occur? ", 
+        "location": [
+          479, 
+          23, 
+          747, 
+          303
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          46, 
+          28, 
+          381, 
+          584
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          513, 
+          356, 
+          74, 
+          33
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          612, 
+          356, 
+          74, 
+          33
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          711, 
+          356, 
+          74, 
+          33
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          810, 
+          356, 
+          74, 
+          33
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          909, 
+          356, 
+          74, 
+          33
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1008, 
+          356, 
+          74, 
+          33
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "   esults, or a probability of 1/6. he house pays 4 chips plus your original chip if you win. s this fair? ow much should they pay to be fair? ", 
+        "location": [
+          479, 
+          417, 
+          717, 
+          182
+        ], 
+        "block_num": 8
+      }
+    ], 
+    "shot_id": 12
+  }, 
+  {
+    "start": 336.08, 
+    "end": 374.48, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Calculating the probability LL", 
+        "location": [
+          573, 
+          23, 
+          519, 
+          46
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " nother bet you can Make Is \u2018an2.<3; O12):   e next roll will be a Crap ", 
+        "location": [
+          479, 
+          130, 
+          749, 
+          60
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          19, 
+          161, 
+          430, 
+          286
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " Pause video now. Calculate the probability   for craps to be rolled.", 
+        "location": [
+          481, 
+          235, 
+          770, 
+          316
+        ], 
+        "block_num": 3
+      }
+    ], 
+    "shot_id": 13
+  }, 
+  {
+    "start": 374.48, 
+    "end": 393.68, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          573, 
+          23, 
+          518, 
+          46
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " HO OE OG", 
+        "location": [
+          479, 
+          129, 
+          749, 
+          187
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          19, 
+          161, 
+          430, 
+          286
+        ], 
+        "block_num": 2
+      }
+    ], 
+    "shot_id": 14
+  }, 
+  {
+    "start": 412.88, 
+    "end": 451.2800000000001, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Calculating the probability LL", 
+        "location": [
+          573, 
+          23, 
+          519, 
+          46
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "   hat is the probability for this to occur? ", 
+        "location": [
+          479, 
+          130, 
+          749, 
+          102
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          19, 
+          161, 
+          430, 
+          286
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          513, 
+          262, 
+          74, 
+          33
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          612, 
+          262, 
+          74, 
+          33
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          711, 
+          262, 
+          74, 
+          33
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "   ", 
+        "location": [
+          810, 
+          262, 
+          74, 
+          33
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "   esults, or a probability of 1/9. he house pays 7 chips plus your original chip if you win. s this fair? ow much should they pay to be fair? ", 
+        "location": [
+          479, 
+          323, 
+          736, 
+          182
+        ], 
+        "block_num": 7
+      }
+    ], 
+    "shot_id": 16
+  }, 
+  {
+    "start": 528.12, 
+    "end": 0.0, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Calculating the probability LL", 
+        "location": [
+          564, 
+          23, 
+          536, 
+          46
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "   ou will roll a AE before soft six o Ee] Gl | EJ Gl or 4 are rolled or a seven is rolled. You are betting you can rol he 6 the hard way, by getting \u201cdoubles\u201d. If no 6 or 7 is rolled, the et continues to be on. hat is the probability for this to occur? ", 
+        "location": [
+          479, 
+          126, 
+          746, 
+          237
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          19, 
+          161, 
+          430, 
+          286
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "   ere Is only one Successtul roll, but there are 4+6= nsuccessful, so the probability to win is 1/11. he house pays 9 chips plus your original chip if you win s this fair? ow much should they pay to be fair? ", 
+        "location": [
+          479, 
+          406, 
+          649, 
+          157
+        ], 
+        "block_num": 3
+      }
+    ], 
+    "shot_id": 19
+  }
+]
